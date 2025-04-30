@@ -1,2 +1,2 @@
 User-agent: Yandex
-Sitemap: https://mediator-obuchenie.vercel.app/sitemap.xml
+Sitemap: https://geshtalt-obuchenie.vercel.app/sitemap.xml
