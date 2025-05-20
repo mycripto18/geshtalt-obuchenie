@@ -38,6 +38,12 @@ nav a:hover {
 }
 
 /* Основной контент */
+a {
+  max-width: 100%;      /* не шире, чем родительский div */
+  overflow: hidden;     /* скрыть лишнее, если текст длинный */
+  text-overflow: ellipsis; /* добавить "..." при обрезке */
+  }
+
 main {
     max-width: 800px;
     margin: 20px auto;
